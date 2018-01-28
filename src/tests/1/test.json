@@ -1,0 +1,35 @@
+[
+  {
+    "question": "Motornim vozilom na putu moze da upravlja lice: ",
+    "answers": [
+      "koje ima dokaz da je vozilo kojim upravlja tehnicki ispravno bez obzira na kategoriju kojoj to vozilo pripada.",
+      "koje ima vazecu vozacku dozvolu, stranu vozacku dozvolu ili medjunarodnu vozacku dozvolu odgovarajuce kategorije."
+    ],
+    "correctAnswers": ["b"]
+  },
+  {
+    "question":"Kako su duzni postupiti ucesnici u saobracaju kad naidju na saobracajni znak postavljen na putu?",
+    "answers":[
+      "prema licnoj procjeni, zavisno od konkretne saobracajne situacije na putu.",
+      "u skladu sa znacenjem saobracajnog znaka"
+    ],
+    "correctAnswers": ["b"]
+  },
+  {
+    "question":"Sta treba uciniti vozac prije nego pokrene vozilo?",
+    "answers":[
+      "upoznati sva lica sa osnovnim saobracajnim pravilima i kaznenim odredbama.",
+      "vezati sigurnosni pojas.",
+      "prilagoditi sjediste i naslon za glavu."
+    ],
+    "correctAnswers": ["b", "c"]
+  },
+  {
+    "question":"U saobracajnoj situaciji kao na slici, plavi putnicki automobil:",
+    "answers":[
+      "ne cini prekrsaj jer je prelaz preko pruge regulisan svjetlosnim saobracajnim znakovima.",
+      "cini prekrsaj."
+    ],
+    "correctAnswers": ["b"]
+  }
+]
